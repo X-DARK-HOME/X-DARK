@@ -17,7 +17,6 @@ title="Author" src="https://img.shields.io/badge/X--DARK-brightgreen?style=for-t
 
 ## SUPPORT US🚨🐝
 <a href="https://chat.whatsapp.com/C9FmNFzXLK59QKkT7NdVzU" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/Whatsapp_Support_Group-brightgreen?logo=whatsapp&color=black
-" />
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/Whatsapp_Support_Group-brightgreen?logo=whatsapp&color=black" />
   </a>
 </p>
