@@ -1,4 +1,6 @@
-const { tiktok, bot, isUrl } = require('../lib/index')
+//const config = require('../config')
+const {readEnv} = require('../lib/database')
+const {cmd , commands} = require('../command')
 
 bot(
   {
