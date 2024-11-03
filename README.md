@@ -14,3 +14,9 @@
 <a href="https://github.com/X-DARK-HOME"><img
 title="Author" src="https://img.shields.io/badge/X--DARK-brightgreen?style=for-the-badge&logo=github&logoSize=auto&color=black&cacheSeconds=3600&link=%3Cimg%3E"></a
 </p>
+
+## SUPPORT US🚨🐝
+<a href="https://chat.whatsapp.com/C9FmNFzXLK59QKkT7NdVzU" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
