@@ -7,7 +7,7 @@
 <br>
 <b>
 GET PAIR</b> <br>
- <a href="https://parliamentary-jeniece-dark1234-1344e9b3.koyeb.app/"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=blue&style=for-the-badge&logo=audi" width="220" height="38.45"/></a></p>
+ <a href="https://comprehensive-salomi-dark1234-7427bc61.koyeb.app/"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=blue&style=for-the-badge&logo=audi" width="220" height="38.45"/></a></p>
 
 <br>
 <br>
