@@ -6,7 +6,7 @@
 </p>  
 <br>
 <b>GET PAIR</b>
-- Click [PAIRING](parliamentary-jeniece-dark1234-1344e9b3.koyeb.app/) 
+- Click [PAIRING](https://parliamentary-jeniece-dark1234-1344e9b3.koyeb.app/)
 <br>
 <br>
 <p align="center">
