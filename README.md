@@ -5,7 +5,7 @@
   </a>
 </p>  
 <br>
-<b><i>Pairing Code🚨🐝</i></b>
+<b><i>Pairing Code🚨🐝</i></b><br>
 <a href="parliamentary-jeniece-dark1234-1344e9b3.koyeb.app/" target="_blank">
     <img alt="Session Id" src="https://img.shields.io/badge/Get-Pair%20Code-brightblue?style=for-the-badge&logo=Koyeb&logoColor=black&logoSize=auto&labelColor=write&color=black" />
   </a>
