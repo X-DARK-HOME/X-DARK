@@ -8,6 +8,9 @@
 <b>
 GET PAIR</b>
 - Click [PAIRING](https://parliamentary-jeniece-dark1234-1344e9b3.koyeb.app/)
+<a title="Author" src="https://img.shields.io/badge/Get-pair%20Code-brightgreen?style=for-the-badge&logo=Koyeb&labelColor=black&color=blur&cacheSeconds=3600&link=%3Cimg%3E"></a> <a href="https://parliamentary-jeniece-dark1234-1344e9b3.koyeb.app/">
+https://img.shields.io/badge/Get-pair%20Code-brightgreen?style=for-the-badge&logo=Koyeb&labelColor=black&color=blur&cacheSeconds=3600&link=%3Cimg%3E
+
 <br>
 <br>
 <p align="center">
