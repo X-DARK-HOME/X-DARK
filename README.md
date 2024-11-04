@@ -5,7 +5,8 @@
   </a>
 </p>  
 <br>
-<b>GET PAIR</b>
+<b>
+GET PAIR</b>
 - Click [PAIRING](https://parliamentary-jeniece-dark1234-1344e9b3.koyeb.app/)
 <br>
 <br>
