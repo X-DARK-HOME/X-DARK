@@ -5,13 +5,13 @@
   </a>
 </p>  
 <br>
-<b><u>Pairing Code🚨🐝</u></b>
+<b><i>Pairing Code🚨🐝</i></b>
 <a href="parliamentary-jeniece-dark1234-1344e9b3.koyeb.app/" target="_blank">
     <img alt="Session Id" src="https://img.shields.io/badge/Get-Pair%20Code-brightblue?style=for-the-badge&logo=Koyeb&logoColor=black&logoSize=auto&labelColor=write&color=black" />
   </a>
 </p>
 <br>
-
+<br>
 <p align="center">
 <a title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/94773824266"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
   <a title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/94713562428"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
