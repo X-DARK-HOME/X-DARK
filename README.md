@@ -6,7 +6,7 @@
 </p>  
 <br>
 <b>
-GET PAIR</b>
+GET PAIR</b> <br>
  <a href="https://parliamentary-jeniece-dark1234-1344e9b3.koyeb.app/"><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=blue&style=for-the-badge&logo=audi" width="220" height="38.45"/></a></p>
 
 <br>
